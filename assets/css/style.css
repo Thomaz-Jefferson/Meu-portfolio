@@ -619,6 +619,15 @@ section {
   transition: 0.3s;
   width: 50%;
 }
+.portfolio-wrap .skills-use {
+  display: flex;
+}
+.portfolio-wrap .skills-use i{
+  display: flex;
+  width: 2rem;
+  height: 2rem;
+  
+}
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
   background: rgba(20, 157, 221, 0.95);
